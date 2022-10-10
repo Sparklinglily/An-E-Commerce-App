@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "314457655395",
+    "project_id": "mywmtstore-dd90e",
+    "storage_bucket": "mywmtstore-dd90e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:314457655395:android:7707addd576b001e61d056",
+        "android_client_info": {
+          "package_name": "com.example.mywmtstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "314457655395-svin2kdc4t98qvviu6bb94kmva6mj82o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu9mO3NU2mAfLO4AgNNPqtmKV0m7Hd0LA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "314457655395-svin2kdc4t98qvviu6bb94kmva6mj82o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
